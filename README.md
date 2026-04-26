@@ -75,4 +75,6 @@ Todas as etapas abaixo foram realizadas no **Power Query Editor**.
 ### 4.1 Verificação de Cabeçalhos e Tipos de Dados
 Conferir nomes das colunas e ajustar tipos.
 
+### 4.2 Escolher as colunas que serão usadas
+Selecionar as colunas que será trabalhadas.
 
