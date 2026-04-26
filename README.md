@@ -78,3 +78,35 @@ Conferir nomes das colunas e ajustar tipos.
 ### 4.2 Escolher as colunas que serão usadas
 Selecionar as colunas que será trabalhadas.
 
+---
+
+
+### 5️⃣ Criação de Visuais de Relatório
+
+- **Gráfico de Barras – Top Salários**
+  - Exibe os funcionários com os maiores salários máximos.
+  - Permite identificar rapidamente posições ou colaboradores com maior custo salarial.
+
+- **Gráfico de Área – Empregados por Gerente**
+  - Mostra a quantidade de empregados sob responsabilidade de cada gerente.
+  - Auxilia na análise de carga de gestão e distribuição de equipes.
+
+- **Gráfico Radar – Empregados por Departamento**
+  - Apresenta a contagem de empregados por departamento.
+  - Facilita a comparação do tamanho relativo das áreas da empresa.
+
+- **Gráfico de Pizza – Empregados por Sexo**
+  - Exibe a distribuição percentual dos empregados por sexo.
+  - Fornece uma visão geral da composição demográfica da organização.
+
+- **Gráfico de Colunas – Dependentes por Funcionário**
+  - Mostra a quantidade máxima de dependentes associados a cada funcionário.
+  - Apoia análises relacionadas a benefícios e encargos adicionais.
+
+---
+
+## 🏆 Projeto
+
+- [Projeto - Integração Azure e Power BI](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Projeto_Relatorio%20Gerencial%20de%20Vendas.pbix)
+- [Base de Dados - Azure_company](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Financial%20Sample.xlsx)
+- [Apresentação - Relatório de Gerenciamento de Empregados](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Apresenta%C3%A7%C3%A3o_Relat%C3%B3rio%20Gerencial%20de%20Vendas.pptx)
