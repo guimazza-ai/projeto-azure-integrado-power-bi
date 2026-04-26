@@ -107,6 +107,5 @@ Selecionar as colunas que será trabalhadas.
 
 ## 🏆 Projeto
 
-- [Projeto - Integração Azure e Power BI](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Projeto_Relatorio%20Gerencial%20de%20Vendas.pbix)
-- [Base de Dados - Azure_company](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Financial%20Sample.xlsx)
-- [Apresentação - Relatório de Gerenciamento de Empregados](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Apresenta%C3%A7%C3%A3o_Relat%C3%B3rio%20Gerencial%20de%20Vendas.pptx)
+- [Projeto - Integração Azure e Power BI](https://github.com/guimazza-ai/projeto-azure-integrado-power-bi/blob/main/Projeto/Projeto_Integra%C3%A7%C3%A3o%20Azure%20e%20Power%20BI.pbix)
+- [Base de Dados - Azure_company](https://github.com/guimazza-ai/projeto-azure-integrado-power-bi/blob/main/Projeto/Banco%20de%20Dados%20MySQL)
